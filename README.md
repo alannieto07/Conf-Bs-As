@@ -1,9 +1,12 @@
-# trabajoPhp, 
--es un formulario donde se compran entradas y los datos son guardados en una base de datos y se muestran en una lista (en el footer donde dice tickets)
+# Conf Bs As, 
+-SPA, donde se puede acceder a la sección de compra de tickets, y los datos son guardados en una tabla. 
 
 -esta subido a un hosting gratuito : https://alannieto.000webhostapp.com (Se accede desde el menú en "Compra tickets").
 
--tecnologías: html, css , javascript , php , mysql.  
+-tecnologías: html5, css3 , bootstrap, javascript , php , mysql.  
+
+![Captura de pantalla (296)](https://github.com/alannieto07/Conf-Bs-As/assets/110429020/09fa2113-6cf7-4d2a-ba56-582a6c867c02)
+
 
 ![Captura de pantalla (274)](https://github.com/alannieto07/trabajoPhp/assets/110429020/8c61841c-7aa9-41e4-9104-108222a604c8) 
 
