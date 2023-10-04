@@ -1,7 +1,7 @@
 # trabajoPhp, 
 -es un formulario donde se compran entradas y los datos son guardados en una base de datos y se muestran en una lista (en el footer donde dice tickets)
 
--esta subido a un hosting gratuito : https://alannieto.000webhostapp.com
+-esta subido a un hosting gratuito : https://alannieto.000webhostapp.com (Se accede desde el menú en "Compra tickets").
 
 -tecnologías: html, css , javascript , php , mysql.  
 
