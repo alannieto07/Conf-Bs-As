@@ -1,5 +1,5 @@
 # Conf Bs As, 
--SPA, donde se puede acceder a la sección de compra de tickets, y los datos son guardados en una tabla. 
+-Página web, donde se puede acceder a la sección de compra de tickets, y los datos son guardados en una tabla. 
 
 -esta subido a un hosting gratuito : https://alannieto.000webhostapp.com (Se accede desde el menú en "Compra tickets").
 
